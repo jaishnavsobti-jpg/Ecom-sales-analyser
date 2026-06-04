@@ -51,13 +51,6 @@ Campaign                     Type            Orders      Revenue  Avg Order  Dis
 ...
 ```
 
-## Skills demonstrated
-
-- Relational database design (5 normalised tables)
-- SQL querying: JOINs, aggregations, subqueries, HAVING, date functions
-- Python + SQLite integration (`sqlite3`, `Row` factory)
-- E-commerce domain concepts: conversion rate, campaign ROI, revenue per session
-
 ## Context
 
 Built as part of a self-directed technical curriculum alongside AI, cybersecurity, and Python coursework. Applying SQL skills to a business analytics use case relevant to e-commerce and digital marketing operations.
