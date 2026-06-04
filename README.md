@@ -60,4 +60,4 @@ Campaign                     Type            Orders      Revenue  Avg Order  Dis
 
 ## Context
 
-Built as part of a self-directed technical curriculum alongside AI, cybersecurity, and Python coursework — applying SQL skills to a business analytics use case relevant to e-commerce and digital marketing operations.
+Built as part of a self-directed technical curriculum alongside AI, cybersecurity, and Python coursework. Applying SQL skills to a business analytics use case relevant to e-commerce and digital marketing operations.
